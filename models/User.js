@@ -46,4 +46,3 @@ const User = model('User', UserSchema);
 
 // export model
 module.exports = User;
-
