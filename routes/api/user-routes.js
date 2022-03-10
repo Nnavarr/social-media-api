@@ -13,6 +13,5 @@ router
   .route('/:id')
   .put(updateUser);
 
-
 // export router
 module.exports = router;
